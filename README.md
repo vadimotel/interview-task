@@ -6,7 +6,7 @@ The first hour of the technical interview is reserved three tasks:
 2. **Python OOP task** (fix the class)
 3. **Python data science task** (work through the steps you would take such as loading data, EDA on features / target, preprocessing, modelling, evaluation, etc)
 
-You can complete the tasks on your local machine or using this [prebuilt MyBinder environment](https://mybinder.org/v2/gh/admivsn/interview-task/HEAD?labpath=README.md) which you can launch in your browser and contains all of the necessary packages.
+You can complete the tasks on your local machine or using this [prebuilt MyBinder environment]([https://mybinder.org/v2/gh/admivsn/interview-task/HEAD?labpath=README.md](https://mybinder.org/v2/gh/vadimotel/interview-task/tree/main/main?urlpath=%2Fdoc%2Ftree%2FREADME.md)) which you can launch in your browser and contains all of the necessary packages.
 
 The tasks are attached to this email, please navigate to the appropriate directory (e.g. Mid, Senior) to ensure you complete the correct tasks. On MyBinder use the folder icon on the top left.
 
