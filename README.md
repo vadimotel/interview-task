@@ -14,4 +14,4 @@ We recommend you spend 10-15 mins on each of the first two tasks, and the remain
 
 Please respond to this email with your solutions. If you use MyBinder you can download the notebooks by right clicking and pressing download.
 
-**Please do not use ChatGPT, you could search the internet but please don't take an entire solution.**
+**Please do not use generative AI solutions(ChatGPT, Claude, Gemeni, etc.), you could search the internet but please don't take an entire solution.**
