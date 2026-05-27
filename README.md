@@ -8,8 +8,6 @@ The first hour of the technical interview is reserved three tasks:
 
 You can complete the tasks on your local machine or using this [prebuilt MyBinder environment](https://mybinder.org/v2/gh/vadimotel/interview-task/HEAD?urlpath=%2Fdoc%2Ftree%2FREADME.md) which you can launch in your browser and contains all of the necessary packages.
 
-https://mybinder.org/v2/gh/vadimotel/interview-task/HEAD?urlpath=%2Fdoc%2Ftree%2FREADME.md
-
 The tasks are attached to this email, please navigate to the appropriate directory (e.g. Mid, Senior) to ensure you complete the correct tasks. On MyBinder use the folder icon on the top left.
 
 We recommend you spend 10-15 mins on each of the first two tasks, and the remaining time on the final task.
