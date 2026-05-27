@@ -1,0 +1,85 @@
+MENU_HINT,EVENT_NAME,Name,WIN_LOSE,age,weight,jockey,trainer,ratings,form,race_surface,race_runners,race_going,race_distance,race_class,race_ages,non_runners
+Newcastle 1st Jul,6f Grp 3,Tiber Flow,1,4,131,Tom Marquand,W J Haggas,106.0,186542.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,6f Hcap,Lethal Levi,0,4,137,C Lee,K R Burke,99.0,196020.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,7f Hcap,Zip,0,7,129,O J Orr,R A Fahey,90.0,216130.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,2m Hcap,Rajinsky,0,7,138,Connor Planas,H Palmer,107.0,419165.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Themaxwecan,0,7,123,J Fanning,C Johnston,92.0,17930.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,7f Hcap,Air To Air,0,5,132,Billy Loughnane,G Boughey,93.0,20927.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,1m2f Hcap,Cockalorum,0,8,129,Jason Hart,R Fell  S Murray,84.0,251145.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,2m Hcap,Green Team,0,4,118,A Mullen,Ian Williams,87.0,904077.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,1m2f Hcap,Mr Curiosity,0,6,135,Cam Hardie,T D Easterby,90.0,310488.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,1m2f Hcap,Persist,0,4,132,Tom Marquand,W J Haggas,87.0,172216.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,1m4f Hcap,Very Excellent,0,7,134,Cam Hardie,M E Sowersby,74.0,431038.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,1m4f Hcap,King Of Unicorns,0,6,128,Billy Garritty,Micky Hammond,68.0,334535.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,6f Grp 3,Witch Hunter,0,4,131,R Kingscote,R Hannon,108.0,20251.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,2m Hcap,Matchless,0,5,119,G Lee,J Candlish,88.0,25513.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Nathanael Greene,0,4,119,Andrea Atzeni,W J Haggas,88.0,214054.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,5f Nov Stks,Batal Zabeel,0,2,133,T Eaves,K A Ryan,,3.0,Allweather,7,Standard / Slow,1100,3.0,2,"['Sweet Soul Music', 'Cloud King']"
+Newcastle 1st Jul,1m4f Hcap,Ri Na Farraige,0,6,130,O J Orr,R A Fahey,70.0,373160.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,6f Grp 3,Prince Of Pillo,0,3,125,J Fanning,K Dalgleish,98.0,141390.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,2m Hcap,Rainbow Dreamer,0,10,131,Rossa Ryan,A King,100.0,512271.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Cozone,0,6,136,J Coen,M J Smith,84.0,230146.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Berkshire Rocco,0,6,130,C Lee,A M Balding,99.0,412500.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Good Show,0,4,122,Jason Hart,K Dalgleish,91.0,920318.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,6f Hcap,Batal Dubai,1,3,120,Oisin Murphy,H  R Charlton,88.0,13177.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,7f Hcap,Lord Of The Lodge,0,6,142,Sam Feilden,K R Burke,103.0,724040.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,2m Hcap,Blow Your Horn,0,6,129,R Kingscote,Ian Williams,70.0,644111.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Aztec Empire,0,4,120,Harry Davies,A M Balding,89.0,214166.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,5f Nov Stks,Markakol,1,2,133,Andrea Atzeni,R Varian,,6.0,Allweather,7,Standard / Slow,1100,3.0,2,"['Sweet Soul Music', 'Cloud King']"
+Newcastle 1st Jul,5f Nov Stks,Zaman Daar,0,2,133,Oisin Murphy,I Mohammed,,,Allweather,7,Standard / Slow,1100,3.0,2,"['Sweet Soul Music', 'Cloud King']"
+Newcastle 1st Jul,6f Grp 3,Mount Athos,0,4,131,N Callan,J Tate,103.0,241112.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,2m Hcap,Adjuvant,0,4,125,Billy Loughnane,M L W Bell,94.0,835821.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Calling The Wind,1,7,130,N Callan,R Hughes,99.0,370462.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,1m2f Hcap,Innse Gall,0,5,124,Rossa Ryan,I Jardine,79.0,134253.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,7f Hcap,Marshal Dan,0,8,127,Rossa Ryan,H Main,88.0,814308.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,1m4f Hcap,Vallamorey,0,5,132,T Eaves,C W Fairhurst,72.0,66310.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,7f Hcap,The Gatekeeper,0,4,132,Andrea Atzeni,C Johnston,93.0,154160.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,1m4f Hcap,Victory,0,4,133,Rossa Ryan,A King,73.0,125279.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,1m2f Hcap,Qaasid,0,5,130,G Lee,Miss J A Camacho,85.0,712323.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,2m Hcap,Sir Chauvelin,0,11,119,William Pyle,J S Goldie,88.0,700830.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Omniscient,0,4,126,L Morris,Sir Mark Prescott,95.0,433181.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Mostly Sunny,0,4,130,Jason Hart,H Main,78.0,21772.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,6f Grp 3,Iconic Moment,0,3,125,Rossa Ryan,J Tate,99.0,11148.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,2m Hcap,Post Impressionist,0,4,126,Tom Marquand,W J Haggas,95.0,204331.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Vino Victrix,0,5,124,Benoit D L Sayette,H Morrison,93.0,212480.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,2m Hcap,Golden Rules,0,6,125,Oisin Murphy,D Faulkner,94.0,212441.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,6f Hcap,Aleezdancer,0,4,136,N Callan,K A Ryan,98.0,303160.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,1m2f Hcap,Shimmering Sands,0,4,123,S A Gray,M  D Easterby,78.0,131031.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,2m Hcap,Hadrianus,0,3,137,Oisin Murphy,C Johnston,102.0,212330.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,7f Hcap,Utilis,0,3,116,L Morris,B Ellison,85.0,324623.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,1m4f Hcap,The Dancing Poet,0,7,124,Oisin Murphy,B Ellison,64.0,543782.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,6f Hcap,Soldiers Minute,0,8,135,J Fanning,K Dalgleish,97.0,290544.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Mountain Road,0,4,117,Cam Hardie,D M Simcock,86.0,221146.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,7f Hcap,Wobwobwob,0,5,125,Tom Marquand,A Keatley,86.0,316426.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,1m4f Hcap,Explorers Way,0,4,120,S A Gray,B Ellison,60.0,644088.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,2m Hcap,World Without Love,0,4,130,J Fanning,C Johnston,73.0,523914.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,7f Hcap,Adeb,1,4,124,Billy Garritty,R A Fahey,85.0,132100.0,Allweather,8,Standard / Slow,1554,2.0,3+,"['Safe Voyage', 'Chola Empire']"
+Newcastle 1st Jul,5f Nov Stks,Mehigburn,0,2,133,Jason Hart,R Fell  S Murray,,6.0,Allweather,7,Standard / Slow,1100,3.0,2,"['Sweet Soul Music', 'Cloud King']"
+Newcastle 1st Jul,2m Hcap,Appier,0,4,138,B A Curtis,S P C Woods,81.0,543131.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,5f Nov Stks,Star Of Lazise,0,2,133,A Mullen,Gemma Tutty,,84.0,Allweather,7,Standard / Slow,1100,3.0,2,"['Sweet Soul Music', 'Cloud King']"
+Newcastle 1st Jul,1m2f Hcap,Thundering,0,4,133,N Callan,K A Ryan,88.0,227850.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,6f Grp 3,Brad The Brief,0,6,131,Oisin Murphy,H Palmer,114.0,2110.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,2m Hcap,Citizen General,0,4,132,N Callan,E A L Dunlop,80.0,117212.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,1m2f Hcap,Nobel,1,4,133,Oisin Murphy,A M Balding,88.0,1180.0,Allweather,8,Standard / Slow,2242,3.0,4+,['Maghlaak']
+Newcastle 1st Jul,6f Hcap,Animate,0,3,119,Andrea Atzeni,S  E Crisford,87.0,314613.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,1m4f Hcap,Lexington Knight,1,5,135,N Callan,R Hannon,75.0,253212.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,6f Hcap,Tiger Crusade,0,6,135,Callum Shepherd,D M Simcock,97.0,401316.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,6f Hcap,Coachello,0,5,142,O J Orr,G Elliott,104.0,761038.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,6f Grp 3,Spycatcher,0,5,131,C Lee,K R Burke,106.0,327014.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,6f Grp 3,Judicial,0,11,131,Callum Rodriguez,Miss J A Camacho,103.0,892812.0,Allweather,8,Standard / Slow,1320,1.0,3+,
+Newcastle 1st Jul,2m Hcap,La Hacienda,1,6,137,Harry Davies,M J Smith,85.0,110083.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Ironopolis,0,3,114,Aiden Brookes,R Menzies,70.0,463417.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Ace Rothstein,0,5,135,Callum Shepherd,Dylan Cunha,83.0,479687.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Law Of The Sea,0,5,123,R Kingscote,Ian Williams,92.0,300424.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']
+Newcastle 1st Jul,1m4f Hcap,Golden Vintage,0,4,121,Callum Shepherd,Jedd OKeeffe,61.0,818295.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,2m Hcap,Winterwatch,0,5,137,G Lee,H Fry,85.0,153100.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Faylaq,0,7,138,Callum Rodriguez,J S Goldie,86.0,532023.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Legendary Day,0,5,137,Tom Marquand,A Keatley,85.0,171756.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,5f Nov Stks,Tan Rapido,0,2,133,Callum Shepherd,C Fellowes,,,Allweather,7,Standard / Slow,1100,3.0,2,"['Sweet Soul Music', 'Cloud King']"
+Newcastle 1st Jul,1m4f Hcap,Glasses Up,0,8,127,P Mathers,R M Smith,67.0,774525.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,6f Hcap,Magical Spirit,0,7,135,T Eaves,K A Ryan,97.0,40413.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Thermoscope,0,5,135,Billy Garritty,K Dalgleish,83.0,790113.0,Allweather,14,Standard / Slow,3576,2.0,3+,
+Newcastle 1st Jul,1m4f Hcap,Billy Bathgate,0,7,120,A Mullen,Ewan Whillans,60.0,264441.0,Allweather,11,Standard / Slow,2738,5.0,4+,['Easter Island']
+Newcastle 1st Jul,5f Nov Stks,Stanley Spencer,0,2,133,N Callan,J Tate,,,Allweather,7,Standard / Slow,1100,3.0,2,"['Sweet Soul Music', 'Cloud King']"
+Newcastle 1st Jul,6f Hcap,Raatea,0,6,131,Jason Hart,Miss J A Camacho,93.0,46451.0,Allweather,9,Standard / Slow,1320,2.0,3+,
+Newcastle 1st Jul,2m Hcap,Zoffee,0,7,126,B A Curtis,H Palmer,95.0,373426.0,Allweather,19,Standard / Slow,3576,2.0,3+,['Second Slip']

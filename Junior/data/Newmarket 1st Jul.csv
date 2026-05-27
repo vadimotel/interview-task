@@ -1,0 +1,47 @@
+MENU_HINT,EVENT_NAME,Name,WIN_LOSE,age,weight,jockey,trainer,ratings,form,race_surface,race_runners,race_going,race_distance,race_class,race_ages,non_runners
+Newmarket 1st Jul,1m2f Hcap,Wintercrack,0,3,131,K T ONeill,Mrs P Sly,73.0,176.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,7f Mdn Stks,Dance Sequence,1,2,128,W Buick,C Appleby,,,Turf,6,Good,1540,4.0,2,
+Newmarket 1st Jul,7f Grp 3,Berkshire Shadow,0,4,133,James Doyle,A M Balding,113.0,641135.0,Turf,6,Good,1540,1.0,3+,
+Newmarket 1st Jul,7f Grp 3,Pogo,0,7,133,K Shoemark,C Hills,112.0,217000.0,Turf,6,Good,1540,1.0,3+,
+Newmarket 1st Jul,1m2f Hcap,Niarbyl Bay,0,4,136,T E Whelan,H Candy,68.0,534.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,1m Hcap,Dora Milaje,0,3,134,D Tudhope,D OMeara,83.0,11.0,Turf,5,Good,1760,4.0,3+,"['Rajindri', 'Canoodled']"
+Newmarket 1st Jul,1m Hcap,Chealamy,0,3,131,Daniel Muscutt,J Ferguson,80.0,442951.0,Turf,5,Good,1760,4.0,3+,"['Rajindri', 'Canoodled']"
+Newmarket 1st Jul,1m2f Hcap,Therapist,1,3,135,Rob Hornby,A M Balding,77.0,23235.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,1m4f Hcap,Victoria Grove,0,4,138,K Shoemark,H Spiller,76.0,518863.0,Turf,6,Good,2640,4.0,3+,['Aiming High']
+Newmarket 1st Jul,1m2f Hcap,Total Lockdown,0,4,138,P J McDonald,J Butler,70.0,215608.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,7f Grp 3,Audience,1,4,133,R Havlin,J  T Gosden,107.0,220331.0,Turf,6,Good,1540,1.0,3+,
+Newmarket 1st Jul,6f Listed,Cry Fiction,0,2,128,Rob Hornby,J G Portman,,1.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,1m4f Listed,New London,0,4,133,W Buick,C Appleby,115.0,112112.0,Turf,5,Good,2640,1.0,4+,
+Newmarket 1st Jul,6f Listed,Point Of Attack,0,2,128,R Havlin,J  T Gosden,,2.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,1m Hcap,Rising Bay,0,3,127,Rob Hornby,A M Balding,76.0,8456.0,Turf,5,Good,1760,4.0,3+,"['Rajindri', 'Canoodled']"
+Newmarket 1st Jul,7f Mdn Stks,Race The Wind,0,2,128,James Doyle,C Appleby,,,Turf,6,Good,1540,4.0,2,
+Newmarket 1st Jul,1m4f Listed,Phantom Flight,0,4,128,P J McDonald,James Horton,107.0,131733.0,Turf,5,Good,2640,1.0,4+,
+Newmarket 1st Jul,7f Grp 3,Sam Maximus,0,4,133,P J McDonald,James Horton,107.0,300126.0,Turf,6,Good,1540,1.0,3+,
+Newmarket 1st Jul,1m4f Hcap,D Day Arvalenreeva,0,3,122,K T ONeill,K P De Foy,72.0,7541.0,Turf,6,Good,2640,4.0,3+,['Aiming High']
+Newmarket 1st Jul,6f Listed,Indispensable,0,2,128,Cieren Fallon,W J Haggas,82.0,321.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,1m Hcap,One Morning,0,4,142,James Doyle,M L W Bell,82.0,2134.0,Turf,5,Good,1760,4.0,3+,"['Rajindri', 'Canoodled']"
+Newmarket 1st Jul,7f Mdn Stks,Hagwa,0,2,128,D Tudhope,Tom Clover,,,Turf,6,Good,1540,4.0,2,
+Newmarket 1st Jul,1m4f Listed,Al Aasy,0,6,131,Jim Crowley,W J Haggas,115.0,122481.0,Turf,5,Good,2640,1.0,4+,
+Newmarket 1st Jul,1m2f Hcap,V Twelve,0,4,137,K Shoemark,E Walker,69.0,321044.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,1m2f Hcap,Dog Fox,0,3,132,Hollie Doyle,E A L Dunlop,74.0,578113.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,7f Mdn Stks,Upscale,0,2,128,Rob Hornby,A M Balding,,,Turf,6,Good,1540,4.0,2,
+Newmarket 1st Jul,7f Mdn Stks,Calafrio,0,2,128,Hollie Doyle,P A Kirby,,4.0,Turf,6,Good,1540,4.0,2,
+Newmarket 1st Jul,7f Mdn Stks,Crocus Time,0,2,128,P J Dobbs,R Hannon,,3.0,Turf,6,Good,1540,4.0,2,
+Newmarket 1st Jul,6f Listed,What A Question,0,2,128,James Doyle,C Johnston,,1.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,1m4f Hcap,Fox Flame,0,3,120,J F Egan,C Johnston,70.0,312963.0,Turf,6,Good,2640,4.0,3+,['Aiming High']
+Newmarket 1st Jul,7f Grp 3,Jumby,0,5,136,W Buick,Eve Johnson Houghton,111.0,965501.0,Turf,6,Good,1540,1.0,3+,
+Newmarket 1st Jul,1m4f Hcap,Saisissante,0,3,128,Rob Hornby,Noel Williams,78.0,561211.0,Turf,6,Good,2640,4.0,3+,['Aiming High']
+Newmarket 1st Jul,1m4f Listed,Outbox,0,8,128,Hollie Doyle,A Watson,99.0,323045.0,Turf,5,Good,2640,1.0,4+,
+Newmarket 1st Jul,1m4f Hcap,Dal Mallart,0,4,139,Hollie Doyle,A King,77.0,340530.0,Turf,6,Good,2640,4.0,3+,['Aiming High']
+Newmarket 1st Jul,6f Listed,Star Of Mystery,1,2,128,W Buick,C Appleby,,21.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,1m4f Listed,Kemari,1,5,128,James Doyle,C Appleby,108.0,226425.0,Turf,5,Good,2640,1.0,4+,
+Newmarket 1st Jul,1m Hcap,Royal Charter,1,3,135,W Buick,W J Haggas,84.0,172.0,Turf,5,Good,1760,4.0,3+,"['Rajindri', 'Canoodled']"
+Newmarket 1st Jul,6f Listed,Ziggys Phoenix,0,2,128,P J Dobbs,R Hannon,84.0,41144.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,6f Listed,Neverstopdreaming,0,2,128,P J McDonald,James Horton,75.0,41.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,7f Grp 3,Aldaary,0,5,133,Jim Crowley,W J Haggas,116.0,557111.0,Turf,6,Good,1540,1.0,3+,
+Newmarket 1st Jul,6f Listed,Unbreak My Heart,0,2,128,J P Fahy,C G Cox,,31.0,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,1m4f Hcap,Spring Fever,1,3,135,R Havlin,J  T Gosden,85.0,48312.0,Turf,6,Good,2640,4.0,3+,['Aiming High']
+Newmarket 1st Jul,6f Listed,Rare Jewel,0,2,128,D Tudhope,W J Haggas,,,Turf,9,Good,1320,1.0,2,['Denruth Diamond']
+Newmarket 1st Jul,1m2f Hcap,Zaras Return,0,3,134,W Buick,W Stone,76.0,758141.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,1m2f Hcap,Blueflagflyinghigh,0,3,135,James Doyle,M L W Bell,77.0,873251.0,Turf,9,Good,2200,5.0,3+,
+Newmarket 1st Jul,1m2f Hcap,Serengeti Sunset,0,3,130,Cieren Fallon,J  T Gosden,72.0,865832.0,Turf,9,Good,2200,5.0,3+,

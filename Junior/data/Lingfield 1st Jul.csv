@@ -1,0 +1,56 @@
+MENU_HINT,EVENT_NAME,Name,WIN_LOSE,age,weight,jockey,trainer,ratings,form,race_surface,race_runners,race_going,race_distance,race_class,race_ages,non_runners
+Lingfield 1st Jul,1m4f Hcap,Mysterious Maestro,0,3,130,Harry Burns,S  E Crisford,59.0,967505.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,1m2f Hcap,Lost In Time,0,6,141,Jefferson Smith,D K Ivory,59.0,43480.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,7f Hcap,Amathus,1,6,142,George Rooke,P R Chamings,65.0,748351.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,5f Hcap,Harb,0,4,138,S W Kelly,P Crate,71.0,924546.0,Turf,6,Good to Firm,1097,5.0,3+,['Regal Envoy']
+Lingfield 1st Jul,7f Hcap,Essme,0,5,123,Charlie Bennett,R Cook  J Bridger,45.0,99033.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Handel,0,5,139,Joey Haynes,C Banham,57.0,897633.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,6f Hcap,Senor Pockets,0,3,133,Kaiya Fraser,H Spiller,59.0,200364.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,6f Hcap,Gonzaga,0,8,126,Morgan Cole,J Bennett,45.0,464766.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,5f Hcap,Lady Jane Grey,0,3,126,George Rooke,Rae Guest,64.0,375386.0,Turf,6,Good to Firm,1097,5.0,3+,['Regal Envoy']
+Lingfield 1st Jul,1m4f Hcap,Climate Precedent,0,3,134,PierreLouis Jamin,M L W Bell,63.0,452449.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,7f Hcap,Nibras Rainbow,0,3,132,Joey Haynes,I Mohammed,63.0,400026.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,1m4f Hcap,Ectocross,0,3,127,Paddy Bradley,S Dow,56.0,13899.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,1m2f Hcap,Codswallop,0,4,134,Charlie Bennett,A West,52.0,940757.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Moosmee,0,6,128,Christian Howarth,S Dow,46.0,904990.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,6f Hcap,Desert Illusion,0,3,135,Molly Presland,I Mohammed,61.0,70239.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,5f Hcap,Dream By Day,0,4,136,Joey Haynes,K P De Foy,69.0,15757.0,Turf,6,Good to Firm,1097,5.0,3+,['Regal Envoy']
+Lingfield 1st Jul,7f Hcap,Inverinate,0,3,131,Jefferson Smith,I Mohammed,62.0,67421.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Gilded Moon,0,3,130,Harry Burns,E A L Dunlop,58.0,331573.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,1m4f Hcap,Papa Ricco,0,3,133,Robert Tart,S P C Woods,62.0,775134.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,6f Hcap,Irish Dessert,0,3,132,PierreLouis Jamin,H Spiller,58.0,796.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,5f Hcap,Eeh Bah Gum,1,8,140,Laura Coughlan,I Furtado,73.0,201159.0,Turf,6,Good to Firm,1097,5.0,3+,['Regal Envoy']
+Lingfield 1st Jul,6f Hcap,Goose Rock,0,3,129,Tommie Jakes,J Ryan,55.0,315735.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,1m2f Hcap,Fravanco,1,4,142,George Rooke,M Madgwick,60.0,557.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Third Batch,0,3,136,Robert Tart,S P C Woods,64.0,448733.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Zebra Star,0,3,133,Oliver Stammers,Miss A Murphy,61.0,734583.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Global Grandeur,0,4,139,Harry Burns,J Butler,57.0,608.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,6f Hcap,Spirit Of Breeze,0,3,136,Paddy Bradley,G L Moore,62.0,634764.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,1m4f Hcap,Surge,0,3,135,Alec Voikhansky,D Menuisier,64.0,50.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,7f Hcap,Ajrad,0,5,140,S W Kelly,M J Attwater,63.0,187854.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,7f Hcap,Kodi Noir,0,3,128,Christian Howarth,Alice Haynes,59.0,986089.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,5f Nov Stks,Talking Rubbish,0,2,128,S W Kelly,P Crate,,,Turf,5,Good to Firm,1097,5.0,2,['Mullingar Girl']
+Lingfield 1st Jul,7f Hcap,Alyara,0,5,140,L P Keniry,J L Flint,63.0,885355.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,7f Hcap,Major Gatsby,0,4,142,William Carson,W G M Turner,65.0,56423.0,Turf,8,Good to Firm,1540,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Optik,0,3,119,Georgia Dobie,D M Simcock,47.0,4222.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,5f Hcap,Song Of Success,0,3,135,Kaiya Fraser,J R Fanshawe,73.0,210445.0,Turf,6,Good to Firm,1097,5.0,3+,['Regal Envoy']
+Lingfield 1st Jul,1m4f Hcap,Philos,0,3,127,Kaiya Fraser,E A L Dunlop,56.0,332211.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,1m2f Hcap,Take My Breath,0,3,118,Laura Coughlan,K Jewell,46.0,67.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,5f Nov Stks,Miss Woo Woo,0,2,128,George Downing,R M H Cowell,72.0,758.0,Turf,5,Good to Firm,1097,5.0,2,['Mullingar Girl']
+Lingfield 1st Jul,1m2f Hcap,Platinum Prince,0,6,144,Paddy Bradley,G L Moore,62.0,133884.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,5f Hcap,Jacks Point,0,7,139,George Downing,R M H Cowell,72.0,570899.0,Turf,6,Good to Firm,1097,5.0,3+,['Regal Envoy']
+Lingfield 1st Jul,1m2f Hcap,Royal Design,0,3,129,Josephine Gordon,P S McEntee,57.0,5880.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,5f Nov Stks,Graceful Thunder,0,2,135,PierreLouis Jamin,G Boughey,81.0,10.0,Turf,5,Good to Firm,1097,5.0,2,['Mullingar Girl']
+Lingfield 1st Jul,1m2f Hcap,Teekana,0,4,130,Georgia Dobie,M Murphy  M Keady,48.0,887507.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,1m2f Hcap,Grand Central,0,3,128,Josephine Gordon,P S McEntee,56.0,68257.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,1m2f Hcap,Star Of Epsom,0,5,135,Paddy Bradley,P Phelan,53.0,161001.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,5f Nov Stks,Dapperling,1,2,128,Alec Voikhansky,R Hannon,73.0,5222.0,Turf,5,Good to Firm,1097,5.0,2,['Mullingar Girl']
+Lingfield 1st Jul,6f Hcap,Savannah Smiles,0,3,133,Christian Howarth,G Harris,59.0,560515.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,1m4f Hcap,Bush Rose,0,3,135,Kyle Strydom,R Varian,64.0,447.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,1m2f Hcap,Delvey,0,4,141,Laura Coughlan,K Jewell,59.0,57370.0,Polytrack,11,Standard,2200,6.0,3+,
+Lingfield 1st Jul,1m2f Hcap,Shalfa,0,4,143,William Carson,Mrs L Richards,61.0,521367.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,5f Nov Stks,Queues Likely,0,2,132,L P Keniry,J S Moore,73.0,571.0,Turf,5,Good to Firm,1097,5.0,2,['Mullingar Girl']
+Lingfield 1st Jul,6f Hcap,San Francisco Bay,1,4,138,Laura Coughlan,H Candy,58.0,972612.0,Turf,8,Good to Firm,1320,6.0,3+,['Bala Hatun']
+Lingfield 1st Jul,1m4f Hcap,Robusto,1,3,134,S W Kelly,Sir Mark Prescott,63.0,613.0,Polytrack,8,Standard,2640,6.0,3,
+Lingfield 1st Jul,1m2f Hcap,Pink Lily,1,3,130,Alec Voikhansky,R Hannon,58.0,333124.0,Polytrack,9,Standard,2200,6.0,3+,"['Dark Gold', 'Maffeo Barberini']"
+Lingfield 1st Jul,1m2f Hcap,Gasman,0,3,126,William Carson,C Hills,54.0,82857.0,Polytrack,11,Standard,2200,6.0,3+,
